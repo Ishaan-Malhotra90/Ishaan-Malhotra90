@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm an AI engineering student passionate about data science, web development, and space<br>.
+Passionate third-year student pursuing B.E. in Computer Science with a specialization in Artificial Intelligence at Chitkara University.
+Keen interest in developing and optimizing machine learning models.
+Fascinated by the application of AI in space exploration.
+Exploring the infinite possibilities in machine learning and AI.
+Crafting sophisticated algorithms and models to solve complex problems.<br>.
 
 
 ## 🌐 Socials:
